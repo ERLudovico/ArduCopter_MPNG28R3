@@ -68,7 +68,7 @@
 	GPS_PROTOCOL_AUTO	auto select GPS
 */
 	
-#define SERIAL0_BAUD			 115200	// Console port 
+#define SERIAL0_BAUD			 9600// 115200	// Console port 
 #define SERIAL2_BAUD			 38400	// GPS port
 #define SERIAL3_BAUD			 57600	// Telemetry (MAVLINK) port
 
